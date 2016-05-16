@@ -2,7 +2,7 @@
  * BinExtractor.h
  *
  *  Created on: Nov 18, 2012
- *      Author: xonar
+ *    Author: xonar
  */
 
 #ifndef BINEXTRACTOR_H
@@ -13,6 +13,8 @@
 #else
 #define PROG_NAME "BinExtractor"
 #endif
+
+#define DEBUG 0
 
 int displayGPT(const char* path);
 int displayAP(const char* path);

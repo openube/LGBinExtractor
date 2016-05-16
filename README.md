@@ -21,7 +21,7 @@ Don't keep it to yourself. Make a pull request.
 https://github.com/Xonar/LGBinExtractor/pull/new/master
 
 ###HALL OF HELPERS
- - novassoc : for his tool that extracts the kdz and wdb files.
+ - navossoc : for his tool that extracts the kdz and wdb files.
  - SnowLeopardJB : for lots and lots of testing
 
 ##Bugs
@@ -60,10 +60,13 @@ See Note 2 and Support
  - KU5900
  - AS730
  - P940
+ - LG Lucid
 
 #####TOT:
 - Optimus G (Sprint,AT&T,Bell)
+- Optimus G Pro
 - Nexus 4
+- MS770
 
 ###TESTING/PLANNED NEAR FUTURE
 - P990

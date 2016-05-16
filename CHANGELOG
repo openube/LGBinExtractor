@@ -1,6 +1,38 @@
 CHANGELOG
 
-21/01/2013 #
+03/05/2013 #2
+	Add Support for LG L9
+
+03/05/2013 #1
+	Improved APHeader display on failed read
+
+05/04/2013
+	Fix reading 44 EC 55 AA header
+
+01/04/2013 #2
+	Don't assume strings are null terminated
+
+01/04/2013 #1
+	Add support for LG Lucid
+	Fix Readme mistake
+	Fix Makefile mistake
+
+30/03/2013 #3
+	Added support for Motion 4G
+
+30/03/2013 #2
+	Added support for Optimus G Pro
+
+30/03/2013 #1
+	Added DEBUG prints
+
+23/01/2013
+	Added Makefile
+
+22/01/2013
+	Fix adding 1 to little LBA of whitespace
+
+21/01/2013 #3
 	Fix adding way to much whitespace
 	Update Readme
 
@@ -12,11 +44,11 @@ CHANGELOG
 	Improve cmdline parsing
 	Change writing space in merged partitions.
 
-20/01/2013 #3
+20/01/2013 #4
 	Revamp reading 44 DD 55 AA APHeader
 	Add Ability to extract header
 
-20/01/2013 #2
+20/01/2013 #3
 	Add support for P940
 
 20/01/2013 #2
